@@ -13,7 +13,7 @@
 	
   <h1>Letícia Martins</h1>
   <h3>
-	🚀 Data Science Intern	
+	🚀 Analista de Desenvolvimento de Software
   </h3>
   <h3>
 	💻 Engenharia de Computação	
