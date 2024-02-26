@@ -13,7 +13,7 @@
 	
   <h1>Letícia Martins</h1>
   <h3>
-	🚀 Analista de Desenvolvimento de Software
+	🚀 Analista de Desenvolvimento de Software | Engenharia de Dados
   </h3>
   <h3>
 	💻 Engenharia de Computação	
