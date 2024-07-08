@@ -5,7 +5,7 @@
 	🚀 Analista de Desenvolvimento de Software | Ciência e Engenharia de Dados
   </h3>
   <h3>
-	💻 Engenharia de Computação	
+	💻 Bacharelado em Engenharia de Computação	
   </h3>
   </br>
 </div>
