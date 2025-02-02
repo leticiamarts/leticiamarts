@@ -2,7 +2,7 @@
 	
   <h1>Letícia Martins</h1>
   <h3>
-	🚀 Analista de Desenvolvimento de Software | Ciência e Engenharia de Dados
+	🚀 Cientista de Dados
   </h3>
   <h3>
 	💻 Bacharelado em Engenharia de Computação	
