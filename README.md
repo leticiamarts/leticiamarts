@@ -20,7 +20,7 @@
 </div>
 <br>
 <div>
-  <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/666863c659bd70fae2f8fc49?variant=dark&roadmaps=67ace8e5f863343482d845cc%2Cpython%2Csql%2Cmlops" alt="roadmap.sh"/></a>
+  <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/666863c659bd70fae2f8fc49?variant=dark&roadmaps=python%2Csql%2C67ace8e5f863343482d845cc%2Cai-data-scientist" alt="roadmap.sh"/></a>
 </div>
 
 <!--
