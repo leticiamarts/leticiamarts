@@ -18,10 +18,6 @@
   <a href="https://www.linkedin.com/in/leticiamarts/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
 </div>
-<br>
-<div>
-  <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/666863c659bd70fae2f8fc49?variant=dark&roadmaps=python%2Csql%2C67ace8e5f863343482d845cc%2Cai-data-scientist" alt="roadmap.sh"/></a>
-</div>
 
 <!--
 **leticiamarts/leticiamarts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
